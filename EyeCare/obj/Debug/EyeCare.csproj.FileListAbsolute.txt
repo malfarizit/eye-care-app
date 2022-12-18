@@ -1,0 +1,12 @@
+C:\Users\Alfarizi\source\repos\EyeCare\EyeCare\bin\Debug\EyeCare.exe.config
+C:\Users\Alfarizi\source\repos\EyeCare\EyeCare\bin\Debug\EyeCare.exe
+C:\Users\Alfarizi\source\repos\EyeCare\EyeCare\bin\Debug\EyeCare.pdb
+C:\Users\Alfarizi\source\repos\EyeCare\EyeCare\obj\Debug\EyeCare.csproj.AssemblyReference.cache
+C:\Users\Alfarizi\source\repos\EyeCare\EyeCare\obj\Debug\EyeCare.csproj.SuggestedBindingRedirects.cache
+C:\Users\Alfarizi\source\repos\EyeCare\EyeCare\obj\Debug\EyeCare.Form1.resources
+C:\Users\Alfarizi\source\repos\EyeCare\EyeCare\obj\Debug\EyeCare.Properties.Resources.resources
+C:\Users\Alfarizi\source\repos\EyeCare\EyeCare\obj\Debug\EyeCare.csproj.GenerateResource.cache
+C:\Users\Alfarizi\source\repos\EyeCare\EyeCare\obj\Debug\EyeCare.csproj.CoreCompileInputs.cache
+C:\Users\Alfarizi\source\repos\EyeCare\EyeCare\obj\Debug\EyeCare.exe
+C:\Users\Alfarizi\source\repos\EyeCare\EyeCare\obj\Debug\EyeCare.pdb
+C:\Users\Alfarizi\source\repos\EyeCare\EyeCare\obj\Debug\EyeCare.peringatan.resources
